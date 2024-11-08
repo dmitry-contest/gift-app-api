@@ -1,6 +1,6 @@
 {
-  "name": "@gift-contest/api-sdk",
-  "version": "0.0.6",
+  "name": "@dmitry-contest/api-sdk",
+  "version": "0.0.5",
   "type": "module",
   "files": [
     "dist/",
